@@ -4,7 +4,7 @@ package main
 import (
 	"net/http"
 
-	"MgoMuxTest/dbRest/controllers"
+	"github.com/jonech/travel-bug-backend/controllers"
 )
 
 type Route struct {
