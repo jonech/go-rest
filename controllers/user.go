@@ -11,7 +11,7 @@ import (
 
 	"github.com/gorilla/mux"
 	_ "github.com/lib/pq"
-	"MgoMuxTest/dbRest/models"
+	"github.com/jonech/travel-bug-backend/models"
 )
 
 
