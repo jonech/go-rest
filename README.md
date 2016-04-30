@@ -4,7 +4,7 @@ Backend for android app
 
 Prior to Execute
 ----------------
-1. Set up a postgres database on your local machine
+1. Set up a postgres database on your local machine, create table like users.sql
 
 2. Change the username, password, database in main.go
 
