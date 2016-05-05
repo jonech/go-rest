@@ -1,5 +1,5 @@
 CREATE TABLE users (
   id  SERIAL PRIMARY KEY,
-  name varchar
+  name varchar,
   age int
 );
