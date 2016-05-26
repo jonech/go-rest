@@ -4,7 +4,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/jonech/travel-bug-backend/controllers"
+	"github.com/jonech/go-rest/controllers"
 )
 
 type Route struct {
