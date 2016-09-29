@@ -1,5 +1,5 @@
 # go-rest
-RESTful API with go
+RESTful API with go and postgres
 
 
 Prior to Execute
